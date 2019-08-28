@@ -1,0 +1,121 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding: 0px 0px;
+  margin: auto;
+
+}
+.yell {
+  color: orange;
+}
+.container {
+  background: black;
+  color: white;
+  width: 100%;
+  margin: auto;
+}
+.container h2 {
+  text-align: center;
+  padding: 15px;
+}
+.container ul {
+  color: orange;
+  text-align: center;
+  padding: 13px;
+}
+.container ul li a {
+  color: orange;
+  text-decoration: none;
+}
+.container ul li a:hover {
+  color: white;
+}
+.container h1 {
+  text-align: center;
+  padding: 20px;
+}
+.container p {
+  text-align: center;
+  padding: 30px;
+}
+.container footer {
+  text-align: center;
+}
+.btn {
+  background: orange;
+  padding: 15px;
+}
+.btn:hover {
+  background: rgb(204, 149, 48);
+}
+.container100 {
+  margin: 30px;
+}
+.container100 h2 {
+  text-align: center;
+  padding: 20px;
+  
+}
+.container200{
+  background: rgb(39, 31, 31);
+  color: white;
+  padding:23px;
+}
+.container200 p {
+  padding: 12px;
+}
+.container200 h2 {
+  padding: 15px 0px;
+  text-align: center;
+  margin: 12px
+
+}
+.container200 ul {
+  padding: 40px;
+}
+.container200 ul li a {
+  color: orange;
+  text-decoration: none;
+}
+.container200 ul li a:hover {
+  text-decoration: underline;
+
+}
+.container300 h2 {
+  text-align: center;
+  padding: 21px 15px;
+}
+.container300 p {
+  text-align: center;
+  padding: 20px 12px;
+}
+.container300 p a {
+  text-align: center;
+  text-decoration: none;
+
+}
+.container300 p a:hover {
+  text-decoration: underline;
+}
+.container400 {
+  background: lightgray;
+}
+.container400 p {
+  text-align: center;
+  margin: 23px;
+}
+.container400 p a {
+  text-decoration: none;
+}
+.container400 p a:hover {
+  text-decoration: underline;
+}
+.freeze {
+  float: left;
+  width: 25%;
+  box-sizing: border-box;
+}
