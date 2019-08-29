@@ -1,0 +1,146 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  padding: 3px 0px;
+  margin: 8px;
+}
+.yell {
+  color: orange;
+}
+.container {
+  width: 100%;
+  margin: auto;
+  background: black;
+  color: white;
+  text-align: center;
+}
+.container h2 {
+  text-align: center;
+  padding-top: 15px; 
+}
+.container ul li a {
+  text-decoration: none;
+  color: orange;
+}
+.container ul li a:hover{
+  text-decoration: underline;
+  color: white;
+}
+.container ul {
+  padding: 20px;
+  list-style: none;
+}
+.container ul li {
+  text-align: center;
+}
+.container h1 {
+  text-align: center;
+  padding: 12px;
+  margin: 5px;
+}
+.container p {
+  text-align: center;
+  padding: 14px;
+}
+.btn {
+  color: white;
+  background: orange;
+  padding: 18px;
+}
+.btn:hover {
+  background: rgb(221, 149, 16);
+}
+.container101 {
+  background: white;
+}
+.container101 h2 {
+  text-align: center;
+  padding: 28px 10px;
+}
+.freeze {
+  float: left;
+  width: 48.5%;
+  display: block;
+}
+.freeze1 {
+  float: left;
+  width: 47.5%;
+}
+.container102 {
+  background: black;
+  color: white;
+  padding: 32px;
+  margin-top: 10px;
+  padding: 54px;
+}
+.container102 h2 {
+  text-align: center;
+  padding-bottom: 25px;
+}
+.container102 p {
+  text-align: start;
+  padding: 0px;
+}
+.container102 ul li a {
+  text-decoration: none;
+  color: orange;
+}
+.container102 ul li a:hover{
+  text-decoration: underline;;
+}
+.container103 {
+  padding: 34px; 
+  text-align: center;
+  margin: 12px;
+  background: white;
+  
+}
+.container103 h2{
+  padding: 24px;
+}
+.container103 a {
+  text-decoration: none;
+  padding: 2px;
+}
+.container103 p {
+  padding-bottom: 23px;
+}
+.container103 a:hover, a:active {
+  text-decoration: underline;
+}
+.container104 {
+  background: lightgrey;
+  padding: 15px;
+  text-align: center;
+}
+.container104 p {
+  padding: 14px;
+}
+.container105 {
+  background: black;
+  color: white;
+  text-align: center;
+  padding: 17px;
+}
+.btn01{
+  background: blue;
+  color: white;
+  padding: 4px;
+} 
+.btn01:hover {
+  background: rgb(31, 158, 201);
+}
+.container105 p {
+  padding: 17px;
+}
+.container105 a {
+  text-decoration: none;
+  color: orange;
+}
+.container105 a:hover{
+  text-decoration: underline;
+}
